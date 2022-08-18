@@ -7,7 +7,7 @@ package com.unifacs.fsa.progsolucoes2022;
 
 /**
  *
- * @author Mateus Tecno
+ * @author Mateus Guimarães
  */
 import java.util.Scanner;
 public class Exercicio_3 {
